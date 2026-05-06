@@ -30,4 +30,4 @@ Best Accuracy: ~73%
 Cardiovascular Disease Dataset
 
 ## 👨‍💻 Author
-Your Name
+Hemanth Kumar
